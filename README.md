@@ -30,15 +30,15 @@ Prioritize investigation in SP and RJ, examine transit delays, and review proces
 
 ### Delivery Overview
 
-![Delivery Overview](assets/delivery-overview.png)
+![Delivery Overview](assets/delivery-overview.png.png)
 
 ### Delivery Stages & Reviews
 
-![Delivery Stages and Reviews](assets/stages-reviews.png)
+![Delivery Stages and Reviews](assets/stages-reviews.png.png)
 
 ### Seller Priority
 
-![Seller Priority](assets/seller-priority.png)
+![Seller Priority](assets/seller-priority.png.png)
 
 ## Method
 
